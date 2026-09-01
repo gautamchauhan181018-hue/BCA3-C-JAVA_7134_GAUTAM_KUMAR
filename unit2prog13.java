@@ -3,7 +3,7 @@
 
 
  
-public class FinalCheck{
+public class unit2prog13{
 
     public static void main(String[] args) {
         final int rollnumber = 101;
